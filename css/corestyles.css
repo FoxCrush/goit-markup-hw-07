@@ -1,0 +1,37 @@
+.body {
+  background-color: var(--main-bgc-white);
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  letter-spacing: 0.03em;
+  color: var(--prime-text-color);
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0px;
+}
+a {
+  color: currentColor;
+  text-decoration: none;
+  display: block;
+}
+ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+}
+address {
+  font-style: normal;
+  text-decoration: none;
+}
+p {
+  margin: 0px;
+}
