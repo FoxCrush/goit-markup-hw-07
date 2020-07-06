@@ -1,19 +1,18 @@
-.body .header-bottom-border-container {
+/* .body .header-bottom-border-container {
   border-bottom: 1px solid #ececec;
-}
-.header-section {
+} */
+/* .header-section {
   max-width: 1200px;
   padding: 0px 15px;
   margin: 0 auto;
-}
-.logo {
+} */
+/* .logo {
   text-transform: capitalize;
   font-family: Raleway;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
-  /* identical to box height */
   letter-spacing: 0.03em;
 
   min-width: 153px;
@@ -22,11 +21,11 @@
 }
 .logo-firsthalf {
   color: var(--focused-color);
-}
-.logo-secondhalf {
+} */
+/* .logo-secondhalf {
   color: black;
-}
-.nav-list {
+} */
+/* .nav-list {
   display: flex;
 }
 .nav-list .item {
@@ -50,11 +49,11 @@
 .nav-list-title:focus,
 .nav-list-title:hover {
   color: var(--focused-color);
-}
-.focused {
+} */
+/* .focused {
   position: relative;
   color: var(--focused-color);
-}
+} */
 .focused::after {
   content: '';
   display: inline-block;

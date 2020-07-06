@@ -1,4 +1,15 @@
 .focused {
   position: relative;
   color: $focused-color;
+  &::after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    bottom: 1px;
+    left: 0;
+    border-radius: 2px;
+    width: 100%;
+    height: 4px;
+    background-color: $focused-color;
+  }
 }

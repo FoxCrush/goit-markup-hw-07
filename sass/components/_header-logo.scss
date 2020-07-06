@@ -1,0 +1,19 @@
+.logo {
+  text-transform: capitalize;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  /* identical to box height */
+
+  min-width: 153px;
+  display: inline-block;
+  margin-right: 85px;
+  &-firsthalf {
+    color: $focused-color;
+  }
+  &-secondhalf {
+    color: $main-black-color;
+  }
+}

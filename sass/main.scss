@@ -1,5 +1,8 @@
 @import './base/normalize';
 @import './base/vars';
 @import './base/global';
-@import './utils/focused';
 @import './utils/visualyhidden';
+@import './components/header';
+@import './components/header-logo';
+@import './components/header-nav';
+@import './utils/focused';
