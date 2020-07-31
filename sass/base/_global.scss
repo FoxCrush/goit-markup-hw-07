@@ -1,9 +1,5 @@
 .body {
-  background-color: $main-bgc-white;
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
-  letter-spacing: 0.03em;
-  color: $prime-text-color;
+  @extend %main-body-settings;
 }
 img {
   display: block;
